@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="button1">Zaloguj się</string>
+    <string name="button2">Rejestracja</string>
+    <string name="pin1">Podaj PIN</string>
 </resources>
